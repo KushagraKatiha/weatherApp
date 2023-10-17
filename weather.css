@@ -1,0 +1,54 @@
+body{
+    background-color: #a59a9a;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #888;
+    line-height: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main{
+    width: 80%;
+    margin: 50px auto;
+    padding: 40px 20px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.head{
+    margin-bottom: 30px;
+}
+
+.city{
+    font-weight: 500;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #dc1818;
+}
+
+.temp{
+    font-weight: 400;
+    font-size: 20px;
+    color: #2F2F2F;
+    margin: 20px 0;
+    background-color: #f29e9e;
+}
+
+.weather{
+    font-weight: 500;
+    font-size: 20px;
+    color: #854c4c;
+}
+
+.submit{
+    background-color: #2F2F2F;
+    color: #fff;
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 15px;
+}
